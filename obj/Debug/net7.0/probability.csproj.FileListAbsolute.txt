@@ -1,0 +1,15 @@
+/home/iagor/Desktop/dotnet/probability/bin/Debug/net7.0/probability
+/home/iagor/Desktop/dotnet/probability/bin/Debug/net7.0/probability.deps.json
+/home/iagor/Desktop/dotnet/probability/bin/Debug/net7.0/probability.runtimeconfig.json
+/home/iagor/Desktop/dotnet/probability/bin/Debug/net7.0/probability.dll
+/home/iagor/Desktop/dotnet/probability/bin/Debug/net7.0/probability.pdb
+/home/iagor/Desktop/dotnet/probability/obj/Debug/net7.0/probability.csproj.AssemblyReference.cache
+/home/iagor/Desktop/dotnet/probability/obj/Debug/net7.0/probability.GeneratedMSBuildEditorConfig.editorconfig
+/home/iagor/Desktop/dotnet/probability/obj/Debug/net7.0/probability.AssemblyInfoInputs.cache
+/home/iagor/Desktop/dotnet/probability/obj/Debug/net7.0/probability.AssemblyInfo.cs
+/home/iagor/Desktop/dotnet/probability/obj/Debug/net7.0/probability.csproj.CoreCompileInputs.cache
+/home/iagor/Desktop/dotnet/probability/obj/Debug/net7.0/probability.dll
+/home/iagor/Desktop/dotnet/probability/obj/Debug/net7.0/refint/probability.dll
+/home/iagor/Desktop/dotnet/probability/obj/Debug/net7.0/probability.pdb
+/home/iagor/Desktop/dotnet/probability/obj/Debug/net7.0/probability.genruntimeconfig.cache
+/home/iagor/Desktop/dotnet/probability/obj/Debug/net7.0/ref/probability.dll
